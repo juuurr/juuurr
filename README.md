@@ -69,14 +69,6 @@ Hi, my name is Ju Ran KANG. I'm interesting in deep learning, especially Compute
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 </p>
 
-
- 
-<h3 align="center"> Follow Me </h3>
-<p align="center">
-  <a href="https://velog.io/@juuurr"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-  <a href="https://www.instagram.com/juuu_rr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-</p>
-
  <br>
  <br>
  
