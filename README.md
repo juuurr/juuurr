@@ -22,7 +22,7 @@ Hi, my name is Ju Ran KANG. I'm interesting in deep learning, especially Compute
 
 
   Daegu, S.Korea
-  <br> BACHELOR’S i ECONOMICS AND TRADE Mar. 2019 ‑ Dec. 2021
+  <br> BACHELOR’S in ECONOMICS AND TRADE Mar. 2019 ‑ Dec. 2021
   <br> Completion of 1st semester of 3rd year'
  
 
