@@ -22,7 +22,7 @@ Hi, my name is Ju Ran KANG. I'm interesting in deep learning, especially Compute
 
 
   Daegu, S.Korea
-  <br> BACHELOR’S iN ECONOMICS AND TRADE Mar. 2019 ‑ Dec. 2021
+  <br> BACHELOR’S i ECONOMICS AND TRADE Mar. 2019 ‑ Dec. 2021
   <br> Completion of 1st semester of 3rd year'
  
 
@@ -59,7 +59,7 @@ Hi, my name is Ju Ran KANG. I'm interesting in deep learning, especially Compute
   
 ### 2022 **4th place**, The 1st National Disabled/Non‑Disabled University Entrepreneurship Contest 
   Gyeonggi, S.Korea
-  <br>  Development of an application where both disabled and non‑disabled people can become subjects and help each other
+  <br>  Development of an application where both disabled and non‑disabled people can help each other
   
  <br>
  <br>
