@@ -11,15 +11,14 @@ Hi, my name is Ju Ran KANG. I'm interesting in deep learning, especially Compute
 📚 Education 📚 </h3>
   
 
- ### University of Seoul(UOS)
-
+ ### University of Seoul [UOS](https://uos.ac.kr/main.do?epTicket=LOG)
   Seoul, S.Korea
   <br> BACHELOR’S in STATISTICS Mar. 2022 ‑ Now
   <br> Transferred from KNU
 
   
 
-### Kyungpook National University(KNU)
+### Kyungpook National University [KNU](https://knu.ac.kr/wbbs/wbbs/main/main.action)
 
 
   Daegu, S.Korea
@@ -42,7 +41,7 @@ Hi, my name is Ju Ran KANG. I'm interesting in deep learning, especially Compute
   
 ### **UOS**
   Seoul, S.Korea
-  <br> UNDERGRADUATE RESEARCHER work with professor Hosik Choi from UOS
+  <br> UNDERGRADUATE RESEARCHER work with [professor Hosik Choi](https://www.uos.ac.kr/prof/1276) from UOS
   <br> Nov. 2022 ‑ Dec. 2022
 
   
