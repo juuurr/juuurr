@@ -2,16 +2,23 @@
  Education 
 </h3>
   
-### **University of Seoul(UOS)**
+
+ ### University of Seoul(UOS)
+
   Seoul, S.Korea
-  <br> BACHELOR’S iN STATiSTiCS Mar. 2022 ‑ Now
-  <br> - Transferred from KNU
+  <br> BACHELOR’S in STATISTICS Mar. 2022 ‑ Now
+  <br> Transferred from KNU
+
   
-### **Kyungpook National University(KNU)**
+
+### Kyungpook National University(KNU)
+
+
   Daegu, S.Korea
   <br> BACHELOR’S iN ECONOMiCS AND TRADE Mar. 2019 ‑ Dec. 2021
   <br> Completion of 1st semester of 3rd year'
-  
+ 
+
  <br>
  <br>
   
@@ -35,7 +42,7 @@
  <br>
   
 <h1 align="center"> 
- Awards
+ 🏆 Awards 🏆 
 </h3>
   
 ### 2022  **1st Place**, Data Science Festival by NIA
@@ -46,12 +53,18 @@
 ### 2022 **4th place**, The 1st National Disabled/Non‑Disabled University Entrepreneurship Contest 
   Gyeonggi, S.Korea
   <br>  Development of an application where both disabled and non‑disabled people can become subjects and help each other
-
+  
+ <br>
+ <br>
+ 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 </p>
 
+ <br>
+ <br>
+ 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://velog.io/@juuurr"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
