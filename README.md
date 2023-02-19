@@ -76,8 +76,8 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-![👩‍💻 My Github Stats 👩‍💻](https://github-readme-stats.vercel.app/api?username=Jurannn&show_icons=true&theme=transparent)
-</div>
+![Ju ran's github stats](https://github-readme-stats.vercel.app/api?username=Jurannn&show_icons=true)
+[![Ju ran's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jurannn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Jurannn)
 
 
 <!--
