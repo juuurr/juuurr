@@ -33,7 +33,7 @@ Hi, my name is Ju Ran KANG. I'm interesting in deep learning, especially Compute
 👩‍💻 Work Experience 👩‍💻
 </h3>
   
-### **[Underline. Co.](https://underlinekorea.com/)**
+### **[Underline. Co. Ltd.](https://underlinekorea.com/)**
   Seoul, S.Korea
   <br> DATA SCIENTIST (INTERNSHIP) 
   <br> Jan. 2023 ‑ Feb. 2023
