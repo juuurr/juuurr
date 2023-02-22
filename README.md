@@ -52,7 +52,7 @@ Hi, my name is Ju Ran KANG. I'm interesting in deep learning, especially Compute
  🏆 Awards 🏆 
 </h3>
   
-### 2022  **1st Place**, Data Science Festival by DS플러스 차세대 융합인재양성 사업단
+### 2022  **1st Place**, [Data Science Festival](https://stat.cnu.ac.kr/_attach/image/editor_image/2022/11/YnNzCimHEISBZeFnoQex.png) by DS플러스 차세대 융합인재양성 사업단
   Seoul, S.Korea
   <br> AED positioning using the MCLP model selection
 
