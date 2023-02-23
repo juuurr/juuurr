@@ -80,6 +80,9 @@ Hi, my name is Ju Ran KANG. I'm interesting in deep learning, especially Compute
 <div align="center">
 
 ![Ju ran's github stats](https://github-readme-stats.vercel.app/api?username=Jurannn&show_icons=true)
+ <br>
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ju2218)](https://solved.ac/ju2218/)
+ <br>
 [![Ju ran's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jurannn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Jurannn)
 
 
