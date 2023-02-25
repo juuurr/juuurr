@@ -4,7 +4,7 @@
 </h3>
 Hi, my name is Ju Ran KANG. I'm interesting in deep learning, especially Computer Vision.
 
-
+<!--
  <br>
  <br>
 <h1 align="center"> 
@@ -47,7 +47,10 @@ Hi, my name is Ju Ran KANG. I'm interesting in deep learning, especially Compute
   
  <br>
  <br>
+  -->
   
+  <br>
+  <br>
 <h1 align="center"> 
  🏆 Awards 🏆 
 </h3>
