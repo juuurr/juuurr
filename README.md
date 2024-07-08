@@ -4,7 +4,7 @@
 </h3>
 Hi, my name is Ju Ran KANG.
 
-<!--
+
  <br>
  <br>
 <h1 align="center"> 
@@ -32,6 +32,18 @@ Hi, my name is Ju Ran KANG.
 <h1 align="center"> 
 👩‍💻 Work Experience 👩‍💻
 </h3>
+
+### **[Wad, Catchtable. Co. Ltd.](https://catchtable.career.greetinghr.com/)**
+  Pangyo, S.Korea
+  <br> DATA ANALYST ASSISTANT (INTERNSHIP) 
+  <br> Dec. 2023 ‑ Apr. 2024
+
+
+### **[Hana Bank](https://www.kebhana.com/)**
+  Seoul, S.Korea
+  <br> DATA ANALYST (INTERNSHIP) 
+  <br> Jul. 2023 ‑ Aug. 2023
+  
   
 ### **[Underline. Co. Ltd.](https://underlinekorea.com/)**
   Seoul, S.Korea
@@ -47,7 +59,7 @@ Hi, my name is Ju Ran KANG.
   
  <br>
  <br>
-  -->
+
   
   <br>
   <br>
