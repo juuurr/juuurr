@@ -2,7 +2,7 @@
 <h1 align="center"> 
 💬 About Me 💬
 </h3>
-Hi, my name is Ju Ran KANG. I'm interesting in deep learning, especially Computer Vision.
+Hi, my name is Ju Ran KANG.
 
 <!--
  <br>
