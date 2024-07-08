@@ -13,7 +13,7 @@ Hi, my name is Ju Ran KANG.
 
  ### University of Seoul [UOS](https://uos.ac.kr/main.do?epTicket=LOG)
   Seoul, S.Korea
-  <br> BACHELOR’S in STATISTICS Mar. 2022 ‑ Now
+  <br> BACHELOR’S in STATISTICS Mar. 2022 ‑ Aug. 2024
   <br> Transferred from KNU
 
   
