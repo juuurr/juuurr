@@ -3,6 +3,7 @@
 💬 About Me 💬
 </h3>
 Hi, my name is Ju Ran KANG.
+
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F&edge_flat=false&title=hits)
 
 
