@@ -81,7 +81,7 @@ Hi, my name is Ju Ran KANG.
  <br>
  <br>
  
-<h3 align="center"> Tech Stack </h3>
+<!--<h3 align="center"> Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
@@ -91,9 +91,9 @@ Hi, my name is Ju Ran KANG.
 </p>
 
  <br>
- <br>
+ <br>  -->
  
-<h3 align="center">💻 My Github Stats 💻</h3>
+<h3 align="center">💻 My Langs Stats 💻</h3>
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhrjsdn3853&layout=compact)
